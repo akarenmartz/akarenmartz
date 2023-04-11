@@ -7,8 +7,8 @@ Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
 
 
 ### 📫 Como contactarme:
--Conectate conmigo en  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ana-karen-martinez-carpio-93093b270/) </br>
--Enviame un [Correo electrónico ] 
+°	Conectate conmigo en  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ana-karen-martinez-carpio-93093b270/)
+°	Envíame un correo 
 
 
 <!--
