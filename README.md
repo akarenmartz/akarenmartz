@@ -1,4 +1,6 @@
 ### Hi there 👋
+Soy Karen! Una estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
+
 
 <!--
 **akarenmartz/akarenmartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
