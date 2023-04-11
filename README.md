@@ -1,5 +1,5 @@
 ### Hi there 👋
-Soy Karen! Una estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
+Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
 
 
 <!--
