@@ -1,8 +1,8 @@
-## Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
 <hr>
 
-### 💻 Tecnologías y Herramientas: <br>
+## 💻 Tecnologías y Herramientas: <br>
 <table>
   <tbody>
     <tr valign="top">
@@ -55,7 +55,7 @@ Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
 <hr>
 
     
-### 📫 Como contactarme:
+## 📫 Como contactarme:
 °	Conectate conmigo en  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ana-karen-martinez-carpio-93093b270/)<br>
 
 °	Enviame un correo  a karenmartinez.mc11@gmail.com
