@@ -1,10 +1,14 @@
 ## Hi there 👋
 Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
 
-### 💻Tecnologías y Herramientas: </br>
+
+### 💻 Tecnologías y Herramientas: </br>
+
 
 
 ### 📫 Como contactarme:
+-Conectate conmigo en [LinkedIn] 
+-Enviame un [Correo electrónico ] 
 
 
 <!--
