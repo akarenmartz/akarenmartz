@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-Soy Karen! Estudiante de ingeniería en Sistemas Computacionales💻🤞🏼✨
-<hr>
+Soy Karen! Estudio la carrera de ingeniería en Sistemas Computacionales💻🤞🏼✨
+<br>
+
 
 ## 💻 Tecnologías y Herramientas: <br>
 <table>
